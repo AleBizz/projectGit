@@ -53,6 +53,7 @@
             // 
             // textBoxLetter
             // 
+            this.textBoxLetter.Enabled = false;
             this.textBoxLetter.Location = new System.Drawing.Point(217, 38);
             this.textBoxLetter.Name = "textBoxLetter";
             this.textBoxLetter.Size = new System.Drawing.Size(27, 20);
